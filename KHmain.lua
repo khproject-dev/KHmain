@@ -98,6 +98,10 @@ elseif PlaceId == 102868797705537 then
 
     requestScript("ghoulshop")
 
+    task.wait(0.5)
+
+    requestScript("afk")
+
 else
 
     error(
