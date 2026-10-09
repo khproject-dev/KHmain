@@ -102,6 +102,10 @@ elseif PlaceId == 102868797705537 then
 
     requestScript("afk")
 
+elseif PlaceId == 113290951185459 then
+
+    requestScript("main")
+
 else
 
     error(
