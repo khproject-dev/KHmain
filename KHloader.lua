@@ -85,6 +85,9 @@ if PlaceId == 107778070777162 then
 
     requestScript("main")
 
+    task.wait(0.5)
+
+    requestScript("EggCounter")
 
 elseif PlaceId == 97598239454123 then
 
