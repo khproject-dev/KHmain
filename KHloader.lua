@@ -83,10 +83,6 @@ end
 
 if PlaceId == 107778070777162 then
 
-    requestScript("eggcounter")
-
-    task.wait(0.5)
-
     requestScript("main")
 
 
